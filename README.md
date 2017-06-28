@@ -1,5 +1,5 @@
 # nanoLysimiter
-A lysimiter based on Arduino Nano clones and built for plant science research.
+A lysimiter based on Arduino Nano clones and built for plant science research. /n
 
 File description
 Nano lysimiter v1.fzz   Fritzing file with diagram and schematic
